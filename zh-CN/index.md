@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: 幻灵初音藏书库
-titleTemplate: 以初始之音，响彻寰宇。以书籍之名，指点迷津。
+title: 悠静の藏书库
+titleTemplate: 以书籍之名，指点迷津。
 
 hero:
-  name: 幻灵初音藏书库
-  text: 以初始之音，响彻寰宇。以书籍之名，指点迷津。
-  tagline: 
+  name: 悠静の藏书库
+  text: 
+  tagline: 以初始之音，响彻寰宇。以书籍之名，指点迷津。
   image:
     src: /logo.svg
     alt: Vitest

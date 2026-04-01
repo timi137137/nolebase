@@ -2,7 +2,7 @@ import type { Creator } from '../scripts/types/metadata'
 import { getAvatarUrlByGithubName } from '../scripts/utils'
 
 /** 文本 */
-export const siteName = '幻灵初音藏书库'
+export const siteName = '悠静の藏书库'
 export const siteShortName = '藏书库'
 export const siteDescription = '以初始之音，响彻寰宇。以书籍之名，指点迷津。'
 
