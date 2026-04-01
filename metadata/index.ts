@@ -2,20 +2,18 @@ import type { Creator } from '../scripts/types/metadata'
 import { getAvatarUrlByGithubName } from '../scripts/utils'
 
 /** 文本 */
-export const siteName = 'Nólëbase'
-export const siteShortName = 'Nólëbase'
-export const siteDescription = '记录回忆，知识和畅想的地方'
+export const siteName = '幻灵初音藏书库'
+export const siteShortName = '藏书库'
+export const siteDescription = '以初始之音，响彻寰宇。以书籍之名，指点迷津。'
 
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
-/** Discord */
-export const discordLink = 'https://discord.gg/XuNFDcDZGj'
+export const githubRepoLink = 'https://github.com/timi137137/nolebase'
 
 /** 无协议前缀域名 */
-export const plainTargetDomain = 'nolebase.ayaka.io'
+export const plainTargetDomain = 'notes.mikui.cc'
 /** 完整域名 */
 export const targetDomain = `https://${plainTargetDomain}`
 
@@ -35,17 +33,16 @@ export const creators: Creator[] = [
     emailAliases: ['neko@ayaka.moe'],
   },
   {
-    name: '絢香音',
+    name: '悠静',
     avatar: '',
-    username: 'LittleSound',
-    title: 'Nólëbase 原始创作者',
-    desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
+    username: 'timi137137',
+    title: '幻书撰写者',
+    desc: '将日常琐事撰写成笔记封存',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
+      { type: 'github', icon: 'github', link: 'https://github.com/timi137137' },
     ],
-    nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
-    emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
+    nameAliases: ['timi137', '悠静萝莉', 'timi137137'],
+    emailAliases: ['i@mikuhl.cn'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrlByGithubName(c.username)
