@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d58734de10ac25c",
+        "id": "879ae77e2fd57f19",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f7d441d719c8a0",
+            "id": "345e765bf345baee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
+                "file": "zh-CN/编目 Catalog/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "尖帽子的魔法工房 （2026）"
+              "title": "index"
             }
           }
         ]
@@ -281,10 +281,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7f7d441d719c8a0",
+  "active": "345e765bf345baee",
   "lastOpenFiles": [
-    "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
+    "zh-CN/笔记/index.md",
+    "zh-CN/toc.md",
+    "zh-CN/index.md",
+    "zh-CN/编目 Catalog/index.md",
+    "zh-CN/视图/尚未编写完成的页面.md",
     "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
+    "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
     "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
     "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
     "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
@@ -296,13 +301,9 @@
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
-    "zh-CN/toc.md",
     "README.md",
-    "zh-CN/笔记/index.md",
-    "zh-CN/index.md",
     "zh-CN/🔌 知识库插件列表.md",
     "zh-CN/视图/未添加标签的页面.md",
-    "zh-CN/视图/尚未编写完成的页面.md",
     "flag_rebuild.md",
     "未命名.base",
     "README_EN.md",
