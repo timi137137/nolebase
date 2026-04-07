@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1baba18a845b8e49",
+        "id": "4d58734de10ac25c",
         "type": "tabs",
         "children": [
           {
-            "id": "19302cbcb9855df8",
+            "id": "a7f7d441d719c8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/index.md",
+                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "尖帽子的魔法工房 （2026）"
             }
           }
         ]
@@ -281,15 +281,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19302cbcb9855df8",
+  "active": "a7f7d441d719c8a0",
   "lastOpenFiles": [
-    "zh-CN/index.md",
+    "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
+    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
+    "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
+    "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
+    "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
+    "zh-CN/编目 Catalog/番剧/夜晚的水母不游泳（2024）.md",
+    "zh-CN/编目 Catalog/番剧/深夜 Punch（2024）.md",
+    "zh-CN/编目 Catalog/番剧/末班列车去哪里？（2024）.md",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
     "zh-CN/toc.md",
+    "README.md",
+    "zh-CN/笔记/index.md",
+    "zh-CN/index.md",
     "zh-CN/🔌 知识库插件列表.md",
     "zh-CN/视图/未添加标签的页面.md",
     "zh-CN/视图/尚未编写完成的页面.md",
-    "zh-CN/笔记/index.md",
-    "README.md",
     "flag_rebuild.md",
     "未命名.base",
     "README_EN.md",
@@ -311,24 +324,10 @@
     "pnpm-lock.yaml.2653060370",
     "node_modules/@types",
     "node_modules/@nolebase",
-    "笔记/🛠️ 开发/JS Framework Benchmark 命令速查.md",
-    "笔记/🛠️ 开发/Another Custom Directive API in Vue and Vapor.md",
-    "笔记/🛠️ 开发/因为 dayjs 不能轻松导入全部的 i18n 语言而换用了 date-fns.md",
-    "笔记/🛠️ 开发/用兼容性更好，体积更小的 Rive 渲染和播放 Lottie 动画.md",
-    "笔记/📦 收集箱/🐙 GitHub 项目/maplibre/index.md",
-    "编目 Catalog/文章/理解什么是 CRDT.md",
-    "笔记/🪄 Vtuber/在 macOS 上不同的 VTuber 直播方案.md",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231209163219.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163146.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163110.jpg",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233938.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233927.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233632.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/assets/Pasted image 20240520003337.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/从 openclash 迁移到 sing-box.md",
     "未命名.canvas"
   ]
 }
