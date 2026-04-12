@@ -201,9 +201,21 @@
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
+          },
+          {
+            "id": "bdcde591b0ccef31",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md"
+              },
+              "icon": "lucide-info",
+              "title": "尖帽子的魔法工房 （2026）的笔记属性"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md",
+                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "配置 CUDA 的一万种方法 的反向链接列表"
+              "title": "尖帽子的魔法工房 （2026） 的反向链接列表"
             }
           },
           {
@@ -235,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md",
+                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "配置 CUDA 的一万种方法 的出链列表"
+              "title": "尖帽子的魔法工房 （2026） 的出链列表"
             }
           },
           {
@@ -250,19 +262,19 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,13 +296,22 @@
   "active": "74f26a3f18c38622",
   "lastOpenFiles": [
     "zh-CN/编目 Catalog/番剧/assets/Pasted_image_20260407220208.png",
-    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
-    "zh-CN/视图/未添加标签的页面.md",
-    "zh-CN/视图/尚未编写完成的页面.md",
-    "zh-CN/编目 Catalog/index.md",
+    "zh-CN/笔记/☀️ 生活/🏠 租房/租房流程.md",
     "zh-CN/笔记/index.md",
     "zh-CN/toc.md",
     "zh-CN/index.md",
+    "zh-CN/🔌 知识库插件列表.md",
+    "zh-CN/视图/未添加标签的页面.md",
+    "zh-CN/视图/尚未编写完成的页面.md",
+    "zh-CN/编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
+    "zh-CN/编目 Catalog/书籍/礼物 - 礼物经济.md",
+    "zh-CN/编目 Catalog/书籍/焦慮使用說明書.md",
+    "zh-CN/编目 Catalog/书籍/Mathematics for Machine Learning.md",
+    "zh-CN/编目 Catalog/书籍/人月神话.md",
+    "zh-CN/编目 Catalog/视频/【2026最新会计实操 基础会计入门做账、财务处理、报税、出纳、报表、工商、发票、财务软件操作、会计就业指导】.md",
+    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
+    "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
+    "zh-CN/编目 Catalog/index.md",
     "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
     "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
     "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
@@ -303,20 +324,11 @@
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
     "README.md",
-    "zh-CN/🔌 知识库插件列表.md",
     "flag_rebuild.md",
     "未命名.base",
     "README_EN.md",
-    "zh-CN/笔记/🧱 基础设施/容器既没有 netstat 和 lsof 也不是 root 时如何排查网络？手动解析 procfs！.md",
-    "zh-CN/笔记/🛠️ 开发/为 DuckDB WASM 制作 Drizzle ORM Driver.md",
-    "zh-CN/笔记/🛠️ 开发/在容器内如何列出正在被监听的端口或者打开的文件？.md",
-    "zh-CN/笔记/📟 终端/软件/容器化/列出 Docker CLI 当前登录的域名.md",
-    "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB/各种语句.md",
-    "zh-CN/笔记/🤖 AI 人工智能/Neuro/AI VTuber.md",
     "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB",
     "zh-CN/笔记/🤖 AI 人工智能/Neuro/Archive.zip",
-    "笔记/🧩 开源贡献/Kubernetes/CNCF Traval Funding.md",
-    "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md",
     "node_modules/@vueuse",
     "node_modules/@antfu",
     "vite.config.ts.timestamp-1728465284690-0e28b7c319039.mjs",
