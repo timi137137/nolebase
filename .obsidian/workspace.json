@@ -293,9 +293,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f26a3f18c38622",
+  "active": "ccb7652bb733a848",
   "lastOpenFiles": [
+    "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
+    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted_image_20260407220208.png",
+    "node_modules",
     "zh-CN/笔记/☀️ 生活/🏠 租房/租房流程.md",
     "zh-CN/笔记/index.md",
     "zh-CN/toc.md",
@@ -309,7 +312,6 @@
     "zh-CN/编目 Catalog/书籍/Mathematics for Machine Learning.md",
     "zh-CN/编目 Catalog/书籍/人月神话.md",
     "zh-CN/编目 Catalog/视频/【2026最新会计实操 基础会计入门做账、财务处理、报税、出纳、报表、工商、发票、财务软件操作、会计就业指导】.md",
-    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
     "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/index.md",
     "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
@@ -335,11 +337,9 @@
     "vite.config.ts.timestamp-1728464096252-aa8904c364146.mjs",
     "pnpm-lock.yaml.2653060370",
     "node_modules/@types",
-    "node_modules/@nolebase",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163219.png",
     "未命名.canvas"
   ]
 }
