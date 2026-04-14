@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "274c822f379961bb",
+        "id": "7e18886c54ffa9a8",
         "type": "tabs",
         "children": [
           {
-            "id": "74f26a3f18c38622",
+            "id": "2da83360473770dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "尖帽子的魔法工房 （2026）"
+              "title": "新标签页"
             }
           }
         ]
@@ -207,11 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "尖帽子的魔法工房 （2026）的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -228,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "尖帽子的魔法工房 （2026） 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -247,12 +240,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "尖帽子的魔法工房 （2026） 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -270,7 +262,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -293,50 +286,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ccb7652bb733a848",
+  "active": "2da83360473770dc",
   "lastOpenFiles": [
+    "zh-CN/笔记/index.md",
+    "zh-CN/笔记/🛠️ 开发/「自适应」与「响应式」布局.md",
+    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 内网到内网.md",
+    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 多用户管理.md",
+    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 搭配 dnsmasq 实现内网自定义解析.md",
+    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 安装.md",
+    "zh-CN/笔记/🛠️ 开发/🕸️ GraphQL/基于游标的分页.md",
+    "zh-CN/笔记/🛠️ 开发/🔐 mTLS SSO/系统设计.md",
+    "zh-CN/笔记/🛠️ 开发/📝 代码片段/在 setup 中方便的注册媒体查询，并在 Unmounted 时自动移除.md",
+    "zh-CN/笔记/🛠️ 开发/📝 代码片段/Vue3 配合 TypeScript 接入腾讯云滑块验证.md",
+    "zh-CN/笔记/🛠️ 开发/📝 代码片段/响应式固定比例的 DIV 盒子.md",
+    "zh-CN/笔记/🛠️ 开发/📝 代码片段/超出文本显示省略号.md",
+    "zh-CN/笔记/🛠️ 开发/📝 代码片段/🌛 暗色模式-支持跟随系统与手动指定.md",
+    "zh-CN/笔记/🛠️ 开发/🏹 gRPC/中心化 Protobuf 仓库如何为多个语言进行分布式地构建，管理和发布.md",
+    "zh-CN/笔记/🛠️ 开发/♻️ 增量同步/学习资料.md",
+    "zh-CN/笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
+    "zh-CN/笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
+    "zh-CN/笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/”灾难性“地将 Homelab K8s 的 Calico 迁移到 Cilium.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/KubeSphere 安装了可插拔 Service Mesh 组件后又卸载导致的问题.md",
+    "zh-CN/笔记/🧱 基础设施/容器里没有 ps 怎么办？.md",
+    "zh-CN/笔记/🧱 基础设施/容器既没有 netstat 和 lsof 也不是 root 时如何排查网络？手动解析 procfs！.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/WG.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/SIG.md",
+    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/KEP.md",
+    "node_modules/@nolebase",
+    "node_modules/@vueuse",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
-    "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted_image_20260407220208.png",
     "node_modules",
-    "zh-CN/笔记/☀️ 生活/🏠 租房/租房流程.md",
-    "zh-CN/笔记/index.md",
-    "zh-CN/toc.md",
-    "zh-CN/index.md",
-    "zh-CN/🔌 知识库插件列表.md",
-    "zh-CN/视图/未添加标签的页面.md",
-    "zh-CN/视图/尚未编写完成的页面.md",
-    "zh-CN/编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
-    "zh-CN/编目 Catalog/书籍/礼物 - 礼物经济.md",
-    "zh-CN/编目 Catalog/书籍/焦慮使用說明書.md",
-    "zh-CN/编目 Catalog/书籍/Mathematics for Machine Learning.md",
-    "zh-CN/编目 Catalog/书籍/人月神话.md",
-    "zh-CN/编目 Catalog/视频/【2026最新会计实操 基础会计入门做账、财务处理、报税、出纳、报表、工商、发票、财务软件操作、会计就业指导】.md",
-    "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
-    "zh-CN/编目 Catalog/index.md",
-    "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
-    "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
-    "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
-    "zh-CN/编目 Catalog/番剧/夜晚的水母不游泳（2024）.md",
-    "zh-CN/编目 Catalog/番剧/深夜 Punch（2024）.md",
-    "zh-CN/编目 Catalog/番剧/末班列车去哪里？（2024）.md",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
-    "README.md",
-    "flag_rebuild.md",
     "未命名.base",
-    "README_EN.md",
     "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB",
     "zh-CN/笔记/🤖 AI 人工智能/Neuro/Archive.zip",
-    "node_modules/@vueuse",
     "node_modules/@antfu",
     "vite.config.ts.timestamp-1728465284690-0e28b7c319039.mjs",
     "vite.config.ts.timestamp-1728464096252-aa8904c364146.mjs",
     "pnpm-lock.yaml.2653060370",
-    "node_modules/@types",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
