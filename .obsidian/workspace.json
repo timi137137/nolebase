@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e18886c54ffa9a8",
+        "id": "f16f00217125867e",
         "type": "tabs",
         "children": [
           {
-            "id": "2da83360473770dc",
+            "id": "e303dbb9d9da7fa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "要不要介入他人因果？"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基础设施 AWS",
+                "query": "tag:软件/搜狗输入法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,8 +156,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -162,10 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md"
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置 CUDA 的一万种方法 的大纲"
+              "title": "要不要介入他人因果？ 的大纲"
             }
           },
           {
@@ -193,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -203,13 +212,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "要不要介入他人因果？的笔记属性"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -222,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "要不要介入他人因果？ 的反向链接列表"
             }
           },
           {
@@ -240,11 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "要不要介入他人因果？ 的出链列表"
             }
           },
           {
@@ -286,8 +299,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2da83360473770dc",
+  "active": "e303dbb9d9da7fa3",
   "lastOpenFiles": [
+    "zh-CN/🔌 知识库插件列表.md",
+    "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
+    "zh-CN/笔记/💾 软件/搜狗输入法/怎么自定义标点符号.md",
+    "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414231034.png",
+    "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414225316.png",
+    "zh-CN/笔记/💾 软件/搜狗输入法/assets",
+    "未命名.base",
+    "zh-CN/笔记/💾 软件/搜狗输入法",
+    "zh-CN/笔记/💾 软件/自己动手，用 ffmpeg 搞定日常音频和视频操作.md",
+    "zh-CN/笔记/💾 软件/Figma 设计软件.md",
+    "zh-CN/笔记/💭哲学与宗教/伦理学",
+    "zh-CN/笔记/💭哲学与宗教",
+    "zh-CN/笔记/📦 收集箱/🌍 网站/😋 GetEmoji.md",
+    "node_modules/@hedgedoc",
+    "zh-CN/笔记/🧱 基础设施/🔍 Elastic Stack (ELK)/安装 ELK.md",
     "zh-CN/笔记/index.md",
     "zh-CN/笔记/🛠️ 开发/「自适应」与「响应式」布局.md",
     "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 内网到内网.md",
@@ -307,13 +335,6 @@
     "zh-CN/笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
     "zh-CN/笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
     "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/”灾难性“地将 Homelab K8s 的 Calico 迁移到 Cilium.md",
-    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/KubeSphere 安装了可插拔 Service Mesh 组件后又卸载导致的问题.md",
-    "zh-CN/笔记/🧱 基础设施/容器里没有 ps 怎么办？.md",
-    "zh-CN/笔记/🧱 基础设施/容器既没有 netstat 和 lsof 也不是 root 时如何排查网络？手动解析 procfs！.md",
-    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
-    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/WG.md",
-    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/SIG.md",
-    "zh-CN/笔记/🧱 基础设施/🚢 Kubernetes/概念/KEP.md",
     "node_modules/@nolebase",
     "node_modules/@vueuse",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
@@ -324,16 +345,8 @@
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
-    "未命名.base",
     "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB",
-    "zh-CN/笔记/🤖 AI 人工智能/Neuro/Archive.zip",
-    "node_modules/@antfu",
-    "vite.config.ts.timestamp-1728465284690-0e28b7c319039.mjs",
-    "vite.config.ts.timestamp-1728464096252-aa8904c364146.mjs",
-    "pnpm-lock.yaml.2653060370",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
     "未命名.canvas"
   ]
 }
