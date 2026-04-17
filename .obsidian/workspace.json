@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2bad2b88c68fae67",
+        "id": "b707bdf04191aaf3",
         "type": "tabs",
         "children": [
           {
-            "id": "39ad03a01b57ec96",
+            "id": "41635ec418a9a096",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zh-CN/笔记/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
         ]
@@ -115,7 +111,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zh-CN/笔记/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "index 的关系图"
+              "title": "关系图谱"
             }
           },
           {
@@ -166,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zh-CN/笔记/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -200,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "zh-CN/笔记/index.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -212,11 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zh-CN/笔记/index.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "index的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -233,7 +223,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zh-CN/笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -252,12 +241,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -299,17 +287,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39ad03a01b57ec96",
+  "active": "41635ec418a9a096",
   "lastOpenFiles": [
+    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
+    "zh-CN/笔记/🔧运维/数据库/assets/Pasted image 20260417232749.png",
+    "zh-CN/笔记/🔧运维/数据库/assets",
+    "zh-CN/笔记/index.md",
     "zh-CN/编目 Catalog/番剧/野良神（2014）.md",
     "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417213153.png",
     "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
-    "zh-CN/笔记/index.md",
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker Registry 删除镜像.md",
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker 快捷操作 Cheat Sheet.md",
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/自建 Docker Registry.md",
-    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL",
     "zh-CN/笔记/🔧运维/数据库",
     "zh-CN/笔记/🔧运维",
@@ -339,13 +329,11 @@
     "zh-CN/笔记/💾 软件/Figma 设计软件.md",
     "zh-CN/笔记/💭哲学与宗教/伦理学",
     "zh-CN/笔记/💭哲学与宗教",
-    "node_modules/@hedgedoc",
     "zh-CN/笔记/🧱 基础设施/🔍 Elastic Stack (ELK)/安装 ELK.md",
     "zh-CN/笔记/🛠️ 开发/「自适应」与「响应式」布局.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
     "zh-CN/编目 Catalog/番剧/assets/Pasted_image_20260407220208.png",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
     "未命名.canvas"
   ]
 }
