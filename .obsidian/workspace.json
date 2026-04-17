@@ -11,10 +11,14 @@
             "id": "41635ec418a9a096",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "安装PostgreSQL"
             }
           }
         ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "安装PostgreSQL 的关系图"
             }
           },
           {
@@ -161,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "安装PostgreSQL 的大纲"
             }
           },
           {
@@ -194,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -204,9 +212,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "安装PostgreSQL的笔记属性"
             }
           }
         ],
@@ -223,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "安装PostgreSQL 的反向链接列表"
             }
           },
           {
@@ -241,11 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "安装PostgreSQL 的出链列表"
             }
           },
           {
