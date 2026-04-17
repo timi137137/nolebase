@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14a36358a2ea0bb7",
+        "id": "2bad2b88c68fae67",
         "type": "tabs",
         "children": [
           {
-            "id": "07420d0edbddeff5",
+            "id": "39ad03a01b57ec96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+                "file": "zh-CN/笔记/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）"
+              "title": "index"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+                "file": "zh-CN/笔记/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025） 的关系图"
+              "title": "index 的关系图"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+                "file": "zh-CN/笔记/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025） 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md"
+                "file": "zh-CN/笔记/index.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md"
+                "file": "zh-CN/笔记/index.md"
               },
               "icon": "lucide-info",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ],
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+                "file": "zh-CN/笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025） 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+                "file": "zh-CN/笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025） 的出链列表"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -299,12 +299,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07420d0edbddeff5",
+  "active": "39ad03a01b57ec96",
   "lastOpenFiles": [
+    "zh-CN/编目 Catalog/番剧/野良神（2014）.md",
+    "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
+    "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417213153.png",
     "zh-CN/编目 Catalog/番剧/尖帽子的魔法工房 （2026）.md",
+    "zh-CN/笔记/index.md",
+    "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker Registry 删除镜像.md",
+    "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker 快捷操作 Cheat Sheet.md",
+    "zh-CN/笔记/🧱 基础设施/🐳 Docker/自建 Docker Registry.md",
+    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
+    "zh-CN/笔记/🔧运维/数据库/PostgreSQL",
+    "zh-CN/笔记/🔧运维/数据库",
+    "zh-CN/笔记/🔧运维",
     "zh-CN/笔记/📦 收集箱/💾 软件/🛠es-toolkit.md",
     "zh-CN/笔记/📦 收集箱/🌍 网站/😋 GetEmoji.md",
-    "zh-CN/编目 Catalog/番剧/克雷瓦提斯-魔兽之王与婴儿与尸之勇者-（2025）.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417092429.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091751.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091611.png",
@@ -331,21 +341,11 @@
     "zh-CN/笔记/💭哲学与宗教",
     "node_modules/@hedgedoc",
     "zh-CN/笔记/🧱 基础设施/🔍 Elastic Stack (ELK)/安装 ELK.md",
-    "zh-CN/笔记/index.md",
     "zh-CN/笔记/🛠️ 开发/「自适应」与「响应式」布局.md",
-    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 内网到内网.md",
-    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 多用户管理.md",
-    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 搭配 dnsmasq 实现内网自定义解析.md",
-    "zh-CN/笔记/🛠️ 开发/🕸 网络/WireGuard VPN/WireGuard 安装.md",
-    "zh-CN/笔记/🛠️ 开发/🕸️ GraphQL/基于游标的分页.md",
-    "node_modules/@nolebase",
-    "node_modules/@vueuse",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
     "zh-CN/编目 Catalog/番剧/assets/Pasted_image_20260407220208.png",
-    "node_modules",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
     "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
     "未命名.canvas"
   ]
 }
