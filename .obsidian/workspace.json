@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH时编辑器卡死问题"
+              "title": "scratch空镜像"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "SSH时编辑器卡死问题 的关系图"
+              "title": "scratch空镜像 的关系图"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SSH时编辑器卡死问题 的大纲"
+              "title": "scratch空镜像 的大纲"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md"
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md"
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md"
               },
               "icon": "lucide-info",
-              "title": "SSH时编辑器卡死问题的笔记属性"
+              "title": "scratch空镜像的笔记属性"
             }
           }
         ],
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SSH时编辑器卡死问题 的反向链接列表"
+              "title": "scratch空镜像 的反向链接列表"
             }
           },
           {
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SSH时编辑器卡死问题 的出链列表"
+              "title": "scratch空镜像 的出链列表"
             }
           },
           {
@@ -301,10 +301,16 @@
   },
   "active": "152f1947e94e3210",
   "lastOpenFiles": [
-    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/vi命令不存在.md",
+    "zh-CN/笔记/🔧运维/容器/获取 Pod 时状态为 Evicted 状态.md",
+    "zh-CN/笔记/🔧运维/容器/Rancher/怎么修改 CoreDNS.md",
+    "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
+    "zh-CN/笔记/🔧运维/容器/Docker",
+    "zh-CN/笔记/🔧运维/容器/Rancher",
     "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
-    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么快速安全扩容？.md",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么关闭swap分区.md",
+    "zh-CN/笔记/🔧运维/容器",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/vi命令不存在.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么快速安全扩容？.md",
     "zh-CN/笔记/💭哲学与宗教/逻辑学/证有不证无，证有靠举例，以偏不概全，概全靠推理.md",
     "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
     "zh-CN/笔记/💭哲学与宗教/逻辑学",
@@ -326,9 +332,6 @@
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker Registry 删除镜像.md",
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/Docker 快捷操作 Cheat Sheet.md",
     "zh-CN/笔记/🧱 基础设施/🐳 Docker/自建 Docker Registry.md",
-    "zh-CN/笔记/🔧运维/数据库/PostgreSQL",
-    "zh-CN/笔记/🔧运维/数据库",
-    "zh-CN/笔记/🔧运维",
     "zh-CN/笔记/📦 收集箱/💾 软件/🛠es-toolkit.md",
     "zh-CN/笔记/📦 收集箱/🌍 网站/😋 GetEmoji.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417092429.png",
@@ -340,9 +343,6 @@
     "zh-CN/笔记/📦 收集箱/📁 资源/远程工作各种资源.md",
     "zh-CN/笔记/📦 收集箱/📁 资源/影视资源.md",
     "zh-CN/笔记/📦 收集箱/📁 资源/漫画资源.md",
-    "zh-CN/笔记/📦 收集箱/📁 资源/国内大模型共享平台.md",
-    "zh-CN/笔记/📦 收集箱/📁 资源/番剧资源.md",
-    "zh-CN/🔌 知识库插件列表.md",
     "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414231034.png",
     "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414225316.png",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260407220208.png",
