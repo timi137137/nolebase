@@ -5,6 +5,8 @@ tags:
   - 运维/数据库
   - 开发/基建
 ---
+# PostgreSQL对外监听方法
+
 其实并没有什么难得，和其他数据库差不多，把默认本地监听改成监听全部：
 ```bash
 vi /etc/postgresql/{版本号}/main/postgresql.conf
