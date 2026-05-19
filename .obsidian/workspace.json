@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f2e3baafc020f7",
+        "id": "b04d8ba9b734b80e",
         "type": "tabs",
         "children": [
           {
-            "id": "932ad424db3a599a",
+            "id": "cd26ab76a70ab31c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "怎么给集群安装监控"
+              "title": "新标签页"
             }
           }
         ]
@@ -212,11 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "怎么给集群安装监控的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -252,12 +246,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "怎么给集群安装监控 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -298,38 +291,39 @@
       "obsidian-livesync:显示自定义同步": false
     }
   },
-  "active": "932ad424db3a599a",
+  "active": "cd26ab76a70ab31c",
   "lastOpenFiles": [
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么关闭swap分区.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么快速安全扩容？.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/vi命令不存在.md",
+    "zh-CN/笔记/📦 收集箱/🌍 网站/Ubuntu镜像大全.md",
+    "zh-CN/笔记/📦 收集箱/🌍 网站/😋 GetEmoji.md",
+    "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
+    "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+    "zh-CN/笔记/🛠️ 开发/Web开发/不要使用桶文件.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/PostgreSQL对外监听方法.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
-    "zh-CN/笔记/🔧运维/容器/Rancher/怎么修改 CoreDNS.md",
-    "zh-CN/笔记/🔧运维/SSH时编辑器卡死问题.md",
+    "zh-CN/笔记/index.md",
     "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控.md",
+    "zh-CN/笔记/🛠️ 开发/Web开发",
+    "zh-CN/笔记/🔧运维/容器/Rancher/怎么修改 CoreDNS.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/未命名.md",
-    "zh-CN/笔记/🔧运维/容器/Docker/scratch空镜像.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets/Pasted image 20260512135944.png",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets/Pasted image 20260512135644.png",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets",
     "zh-CN/笔记/🔧运维/容器/Rancher/Rancher 自定义集群迁移.md",
     "zh-CN/笔记/🛠️ 开发/Python",
-    "zh-CN/笔记/📦 收集箱/🌍 网站/Ubuntu镜像大全.md",
-    "zh-CN/笔记/📦 收集箱/🌍 网站/😋 GetEmoji.md",
     "zh-CN/笔记/🔧运维/容器/获取 Pod 时状态为 Evicted 状态.md",
     "zh-CN/笔记/🔧运维/容器/Docker",
     "zh-CN/笔记/🔧运维/容器/Rancher",
-    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么关闭swap分区.md",
     "zh-CN/笔记/🔧运维/容器",
-    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/vi命令不存在.md",
-    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/怎么快速安全扩容？.md",
     "zh-CN/笔记/💭哲学与宗教/逻辑学/证有不证无，证有靠举例，以偏不概全，概全靠推理.md",
     "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
     "zh-CN/笔记/💭哲学与宗教/逻辑学",
     "node_modules/@netlify",
     "node_modules/@types",
     "node_modules/@iconify-json",
-    "node_modules/@antfu",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/assets/4f408a52-df4d-495b-9639-78c32730bdae.png",
-    "zh-CN/笔记/index.md",
     "zh-CN/笔记/📦 收集箱/🔖 词条/CN.md",
     "zh-CN/笔记/🔧运维/数据库/assets/Pasted image 20260417232749.png",
     "zh-CN/编目 Catalog/番剧/野良神（2014）.md",
@@ -343,7 +337,6 @@
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417092429.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091751.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091611.png",
-    "欢迎.md",
     "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414231034.png",
     "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414225316.png",
     "未命名.canvas"
