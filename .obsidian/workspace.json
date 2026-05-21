@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/虚拟机/PVE/如何给PVE虚拟机缩容.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/定向清理Docker资源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何给PVE虚拟机缩容"
+              "title": "定向清理Docker资源"
             }
           }
         ]
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/虚拟机/PVE/如何给PVE虚拟机缩容.md"
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/定向清理Docker资源.md"
               },
               "icon": "lucide-info",
-              "title": "如何给PVE虚拟机缩容的笔记属性"
+              "title": "定向清理Docker资源的笔记属性"
             }
           }
         ],
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/虚拟机/PVE/如何给PVE虚拟机缩容.md",
+                "file": "zh-CN/笔记/🔧运维/容器/Docker/定向清理Docker资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何给PVE虚拟机缩容 的出链列表"
+              "title": "定向清理Docker资源 的出链列表"
             }
           },
           {
@@ -300,10 +300,11 @@
   },
   "active": "6ae724577ef959a3",
   "lastOpenFiles": [
+    "zh-CN/笔记/🔧运维/Gitlab/裸机安装Gitlab Runner.md",
+    "zh-CN/笔记/🔧运维/虚拟机/PVE/如何给PVE虚拟机缩容.md",
     "zh-CN/笔记/🔧运维/Gitlab",
     "zh-CN/笔记/🔧运维/容器/Docker/定向清理Docker资源.md",
     "zh-CN/笔记/🛠️ 开发/Web开发/不要使用桶文件.md",
-    "zh-CN/笔记/🔧运维/虚拟机/PVE/如何给PVE虚拟机缩容.md",
     "zh-CN/笔记/🔧运维/虚拟机/PVE/assets/Pasted image 20260520021258.png",
     "zh-CN/笔记/🔧运维/虚拟机/PVE/assets",
     "zh-CN/笔记/🔧运维/虚拟机/PVE",
@@ -333,7 +334,6 @@
     "zh-CN/笔记/🔧运维/容器",
     "zh-CN/笔记/💭哲学与宗教/逻辑学/证有不证无，证有靠举例，以偏不概全，概全靠推理.md",
     "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
-    "zh-CN/笔记/💭哲学与宗教/逻辑学",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/assets/4f408a52-df4d-495b-9639-78c32730bdae.png",
     "zh-CN/笔记/📦 收集箱/🔖 词条/CN.md",
     "zh-CN/笔记/🔧运维/数据库/assets/Pasted image 20260417232749.png",
