@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9cae0b3d1d5025",
+        "id": "b08f21dc77fae30a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a389df173c04294",
+            "id": "955ea96d504ed397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/PostgreSQL创建一个备份用户.md",
+                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL创建一个备份用户"
+              "title": "Eclipse Temurin JDK"
             }
           }
         ]
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/PostgreSQL创建一个备份用户.md"
+                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md"
               },
               "icon": "lucide-info",
-              "title": "PostgreSQL创建一个备份用户的笔记属性"
+              "title": "Eclipse Temurin JDK的笔记属性"
             }
           }
         ],
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🔧运维/数据库/PostgreSQL/PostgreSQL创建一个备份用户.md",
+                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PostgreSQL创建一个备份用户 的出链列表"
+              "title": "Eclipse Temurin JDK 的出链列表"
             }
           },
           {
@@ -298,10 +298,15 @@
       "obsidian-livesync:显示自定义同步": false
     }
   },
-  "active": "5a389df173c04294",
+  "active": "955ea96d504ed397",
   "lastOpenFiles": [
-    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
+    "zh-CN/笔记/📦 收集箱/💾 软件/🛠es-toolkit.md",
+    "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
+    "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224706.png",
+    "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224650.png",
+    "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224608.png",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/PostgreSQL创建一个备份用户.md",
+    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/安装PostgreSQL.md",
     "zh-CN/笔记/🔧运维/Gitlab/如何配置Gitlab Runner.md",
     "zh-CN/笔记/🔧运维/Gitlab/裸机安装Gitlab Runner.md",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/如何信任自签名根证书.md",
@@ -336,16 +341,10 @@
     "zh-CN/笔记/🔧运维/容器/Rancher",
     "zh-CN/笔记/🔧运维/容器",
     "zh-CN/笔记/💭哲学与宗教/逻辑学/证有不证无，证有靠举例，以偏不概全，概全靠推理.md",
-    "zh-CN/笔记/💭哲学与宗教/伦理学/要不要介入他人因果？.md",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/assets/4f408a52-df4d-495b-9639-78c32730bdae.png",
-    "zh-CN/笔记/📦 收集箱/🔖 词条/CN.md",
     "zh-CN/笔记/🔧运维/数据库/assets/Pasted image 20260417232749.png",
-    "zh-CN/编目 Catalog/番剧/野良神（2014）.md",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417213153.png",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417092429.png",
-    "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091751.png",
-    "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260417091611.png",
-    "zh-CN/笔记/💾 软件/搜狗输入法/assets/Pasted image 20260414231034.png",
     "未命名.canvas"
   ]
 }
