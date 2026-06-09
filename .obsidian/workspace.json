@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b08f21dc77fae30a",
+        "id": "aa77b0482a936193",
         "type": "tabs",
         "children": [
           {
-            "id": "955ea96d504ed397",
+            "id": "eb23fe37f9591cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
+                "file": "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux启动流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Temurin JDK"
+              "title": "Linux启动流程"
             }
           }
         ]
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md"
+                "file": "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux启动流程.md"
               },
               "icon": "lucide-info",
-              "title": "Eclipse Temurin JDK的笔记属性"
+              "title": "Linux启动流程的笔记属性"
             }
           }
         ],
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
+                "file": "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux启动流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Eclipse Temurin JDK 的出链列表"
+              "title": "Linux启动流程 的出链列表"
             }
           },
           {
@@ -298,10 +298,18 @@
       "obsidian-livesync:显示自定义同步": false
     }
   },
-  "active": "955ea96d504ed397",
+  "active": "eb23fe37f9591cd0",
   "lastOpenFiles": [
-    "zh-CN/笔记/📦 收集箱/💾 软件/🛠es-toolkit.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux启动流程.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux系统各目录的用处.md",
+    "_testinfo/RECV/files.md",
+    "_testinfo/RECV",
+    "_testinfo",
+    "zh-CN/笔记/🔧运维/容器/集群监控日志莫名丢失怎么办.md",
+    "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控 1.md",
+    "zh-CN/笔记/🔧运维/容器/如何给容器严格限制CPU和内存.md",
     "zh-CN/笔记/📦 收集箱/💾 软件/Eclipse Temurin JDK.md",
+    "zh-CN/笔记/📦 收集箱/💾 软件/🛠es-toolkit.md",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224706.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224650.png",
     "zh-CN/笔记/📦 收集箱/💾 软件/assets/Pasted image 20260528224608.png",
@@ -329,18 +337,11 @@
     "zh-CN/笔记/index.md",
     "zh-CN/笔记/🔧运维/容器/怎么给集群安装监控.md",
     "zh-CN/笔记/🛠️ 开发/Web开发",
-    "zh-CN/笔记/🔧运维/容器/Rancher/怎么修改 CoreDNS.md",
-    "zh-CN/笔记/🔧运维/数据库/PostgreSQL/未命名.md",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets/Pasted image 20260512135944.png",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets/Pasted image 20260512135644.png",
     "zh-CN/笔记/🔧运维/数据库/PostgreSQL/assets",
-    "zh-CN/笔记/🔧运维/容器/Rancher/Rancher 自定义集群迁移.md",
     "zh-CN/笔记/🛠️ 开发/Python",
-    "zh-CN/笔记/🔧运维/容器/获取 Pod 时状态为 Evicted 状态.md",
     "zh-CN/笔记/🔧运维/容器/Docker",
-    "zh-CN/笔记/🔧运维/容器/Rancher",
-    "zh-CN/笔记/🔧运维/容器",
-    "zh-CN/笔记/💭哲学与宗教/逻辑学/证有不证无，证有靠举例，以偏不概全，概全靠推理.md",
     "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/assets/4f408a52-df4d-495b-9639-78c32730bdae.png",
     "zh-CN/笔记/🔧运维/数据库/assets/Pasted image 20260417232749.png",
     "zh-CN/编目 Catalog/番剧/assets/Pasted image 20260417213153.png",
