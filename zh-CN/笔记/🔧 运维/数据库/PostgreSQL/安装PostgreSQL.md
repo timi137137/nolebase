@@ -1,10 +1,12 @@
 ---
 tags:
-  - 分类/软件
   - 分类/运维
   - 运维/数据库
   - 开发/基建
+  - 软件/PostgreSQL
 ---
+# 安装PostgreSQL
+
 ## Ubuntu / Debian
 实际上目前 PostgreSQL 已经可以通过系统附带的包管理器直接安装，因此命令如下：
 ```bash

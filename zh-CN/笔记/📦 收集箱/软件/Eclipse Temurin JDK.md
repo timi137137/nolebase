@@ -1,8 +1,8 @@
 ---
 tags:
   - 分类/收集箱
-  - 分类/软件
   - 开发/基建
+  - 软件/JDK
 ---
 # Eclipse Temurin JDK
 
