@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4accac2db4aed4c",
+        "id": "a46358a73813a374",
         "type": "tabs",
         "children": [
           {
-            "id": "0b1f39179a44f1fb",
+            "id": "f11cc5909d4ff710",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "public/og.png"
-              },
-              "icon": "lucide-image",
-              "title": "og"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -212,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "public/og.png"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "笔记属性"
             }
@@ -252,7 +248,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/og.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -298,10 +293,12 @@
       "obsidian-livesync:显示自定义同步": false
     }
   },
-  "active": "0b1f39179a44f1fb",
+  "active": "f11cc5909d4ff710",
   "lastOpenFiles": [
-    "public/safari-pinned-tab.svg",
+    "zh-CN/笔记/🛠️ 开发/Web开发/不要使用桶文件.md",
+    "zh-CN/笔记/🛠️ 开发/Github 使用 SSH Key签名提交问题.md",
     "public/og.png",
+    "public/safari-pinned-tab.svg",
     "public/obsidian-logo.svg",
     "public/mstile-310x150.png",
     "public/mstile-144x144.png",
@@ -315,8 +312,6 @@
     "zh-CN/toc.md",
     "README.md",
     "zh-CN/笔记/📚 个人知识管理/Obsidian、VitePress 以及 Nólëbase 所处的困境.md",
-    "zh-CN/笔记/🛠️ 开发/assets/Pasted image 20260911185958.png",
-    "zh-CN/笔记/🛠️ 开发/Github 使用 SSH Key签名提交问题.md",
     "zh-CN/笔记/🛠️ 开发/assets",
     "zh-CN/笔记/🎛️ 操作系统/Linux/怎么关闭swap分区.md",
     "zh-CN/笔记/🎛️ 操作系统/Linux/vi命令不存在.md",
