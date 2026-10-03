@@ -3,6 +3,7 @@ tags:
   - 分类/运维
   - 软件/Rancher
   - 软件/Kubernetes
+  - 类型/SOP
 ---
 # Rancher 自定义集群迁移
 

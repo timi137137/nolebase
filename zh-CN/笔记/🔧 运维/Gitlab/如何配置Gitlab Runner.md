@@ -3,6 +3,7 @@ tags:
   - 分类/运维
   - 基础设施
   - 软件/Gitlab
+  - 类型/SOP
 ---
 # 如何配置Gitlab Runner
 

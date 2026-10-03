@@ -2,6 +2,7 @@
 tags:
   - 分类/运维
   - 软件/Kubernetes
+  - 类型/SOP
 ---
 # 获取 Pod 时状态为 Evicted 状态
 

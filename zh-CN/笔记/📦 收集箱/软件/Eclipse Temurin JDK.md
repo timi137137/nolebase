@@ -3,6 +3,7 @@ tags:
   - 分类/收集箱
   - 开发/基建
   - 软件/JDK
+  - 类型/收藏
 ---
 # Eclipse Temurin JDK
 

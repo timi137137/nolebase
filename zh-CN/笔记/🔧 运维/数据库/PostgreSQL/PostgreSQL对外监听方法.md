@@ -4,6 +4,7 @@ tags:
   - 运维/数据库
   - 开发/基建
   - 软件/PostgreSQL
+  - 类型/SOP
 ---
 # PostgreSQL对外监听方法
 

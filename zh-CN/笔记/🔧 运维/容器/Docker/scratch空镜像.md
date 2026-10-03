@@ -2,6 +2,7 @@
 tags:
   - 分类/运维
   - 软件/Docker
+  - 类型/SOP
 ---
 # 使用 scratch 空镜像
 

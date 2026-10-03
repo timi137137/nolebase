@@ -2,6 +2,7 @@
 tags:
   - 分类/运维
   - 软件/Kubernetes
+  - 类型/SOP
 ---
 # 如何给容器严格限制CPU和内存
 
